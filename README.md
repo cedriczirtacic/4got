@@ -21,5 +21,4 @@ go get golang.org/x/net/html
 go build
 ```
 ## Todo
-* Replace the usage of *wget*
 * Crawler? Maybe?
